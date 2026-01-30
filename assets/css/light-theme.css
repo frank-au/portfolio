@@ -983,7 +983,7 @@ main {
 .project-item-icon-box {
   --scale: 0.8;
 
-  background: var(--jet);
+  background: var(--light-gray);
   color: var(--orange-yellow-crayola);
   position: absolute;
   top: 50%;
